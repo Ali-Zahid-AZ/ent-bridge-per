@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node.js
+node_modules/
+
+# Build and cache artifacts
+build/
+dist/
+.cache/
+*.log
+
+# Secrets and local configuration
+*.local
+*.secret
+.env.*
+!.env.example
