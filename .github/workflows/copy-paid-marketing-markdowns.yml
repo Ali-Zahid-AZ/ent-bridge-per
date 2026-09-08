@@ -1,0 +1,68 @@
+name: Copy paid marketing implementation markdowns
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/copy-paid-marketing-markdowns.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Copy markdown files one by one
+        shell: bash
+        run: |
+          set -euo pipefail
+          files=(
+            V5-DETAILED-IMPLEMENTATION.md
+            V6-DETAILED-IMPLEMENTATION.md
+            V7-DETAILED-IMPLEMENTATION.md
+            V8-DETAILED-IMPLEMENTATION.md
+            V9-DETAILED-IMPLEMENTATION.md
+            V10-DETAILED-IMPLEMENTATION.md
+            V11-DETAILED-IMPLEMENTATION.md
+            V12-DETAILED-IMPLEMENTATION.md
+            V13-DETAILED-IMPLEMENTATION.md
+            V14-B-DETAILED-IMPLEMENTATION.md
+            V14-DETAILED-IMPLEMENTATION.md
+            V15-DETAILED-IMPLEMENTATION.md
+            V16-DETAILED-IMPLEMENTATION.md
+            V16_1-DETAILED-IMPLEMENTATION.md
+            V17-DETAILED-IMPLEMENTATION.md
+            V18-DETAILED-IMPLEMENTATION.md
+            V19-DETAILED-IMPLEMENTATION.md
+            V19-1-DETAILED-IMPLEMENTATION.md
+            V19-2-DETAILED-IMPLEMENTATION.md
+          )
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          base="https://raw.githubusercontent.com/Ali-Zahid-AZ/oh-ai-paid-marketing/main/docs/documentation/implementation-details/markdown"
+
+          for f in "${files[@]}"; do
+            curl --fail --silent --show-error --location "$base/$f" --output "$f"
+            git add "$f"
+            if ! git diff --cached --quiet -- "$f"; then
+              git commit -m "Copy $f from oh-ai-paid-marketing"
+            fi
+          done
+
+          git push origin HEAD:main
+
+      - name: Remove temporary workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          git pull --ff-only origin main
+          git rm .github/workflows/copy-paid-marketing-markdowns.yml
+          git commit -m "Remove temporary markdown copy workflow"
+          git push origin HEAD:main
