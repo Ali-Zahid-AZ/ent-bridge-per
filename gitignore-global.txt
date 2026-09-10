@@ -1,0 +1,24 @@
+# --- Sync Client Artifacts ---
+# Insync temporary downloads
+*.insyncdl*
+# General sync conflict files (Insync/Dropbox/OneDrive)
+*conflicted*
+*conflict*
+
+# --- OS Specific Metadata ---
+# macOS specific (if you share repos with Mac users)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific (if you share repos with Windows users)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux specific
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
