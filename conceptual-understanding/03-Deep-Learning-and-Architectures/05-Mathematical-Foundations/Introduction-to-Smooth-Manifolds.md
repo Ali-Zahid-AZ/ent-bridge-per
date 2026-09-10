@@ -1,0 +1,1 @@
+- [Introduction-to-Smooth-Manifolds.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Introduction-to-Smooth-Manifolds.pdf>)

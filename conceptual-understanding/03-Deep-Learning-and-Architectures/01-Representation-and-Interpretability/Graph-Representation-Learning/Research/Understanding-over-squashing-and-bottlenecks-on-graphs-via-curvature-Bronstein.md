@@ -1,0 +1,1 @@
+- [Understanding-over-squashing-and-bottlenecks-on-graphs-via-curvature-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Understanding-over-squashing-and-bottlenecks-on-graphs-via-curvature-Bronstein.pdf>)

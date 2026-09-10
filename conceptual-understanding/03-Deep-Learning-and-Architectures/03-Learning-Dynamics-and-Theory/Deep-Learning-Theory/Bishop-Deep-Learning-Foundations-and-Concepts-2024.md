@@ -1,0 +1,1 @@
+- [Bishop-Deep-Learning-Foundations-and-Concepts-2024.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/Bishop-Deep-Learning-Foundations-and-Concepts-2024.pdf>)

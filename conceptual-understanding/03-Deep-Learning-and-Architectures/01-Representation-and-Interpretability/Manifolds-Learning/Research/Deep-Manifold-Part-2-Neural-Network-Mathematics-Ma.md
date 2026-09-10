@@ -1,0 +1,1 @@
+- [Deep-Manifold-Part-2-Neural-Network-Mathematics-Ma-2025.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/02-Theoretical-Foundations/Manifolds/Deep-Manifold-Part-2-Neural-Network-Mathematics-Ma-2025.pdf>)

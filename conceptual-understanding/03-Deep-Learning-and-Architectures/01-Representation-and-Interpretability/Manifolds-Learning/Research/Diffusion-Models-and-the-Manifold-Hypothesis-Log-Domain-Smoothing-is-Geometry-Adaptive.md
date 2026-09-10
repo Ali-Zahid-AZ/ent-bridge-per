@@ -1,0 +1,1 @@
+- [Diffusion-Models-and-the-Manifold-Hypothesis-Log-Domain-Smoothing-is-Geometry-Adaptive-2025.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/02-Theoretical-Foundations/Manifolds/Diffusion-Models-and-the-Manifold-Hypothesis-Log-Domain-Smoothing-is-Geometry-Adaptive-2025.pdf>)

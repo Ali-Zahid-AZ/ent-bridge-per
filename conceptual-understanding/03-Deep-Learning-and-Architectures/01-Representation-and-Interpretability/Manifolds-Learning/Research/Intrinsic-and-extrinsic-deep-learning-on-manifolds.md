@@ -1,0 +1,1 @@
+- [Intrinsic-and-extrinsic-deep-learning-on-manifolds-2024.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Geometric-Deep-Learning/Manifolds-Learning/Intrinsic-and-extrinsic-deep-learning-on-manifolds-2024.pdf>)

@@ -1,0 +1,1 @@
+- [Discrete-Mathematics-of-Neural-Networks-Selected-Topics-Martin-Anthony.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Discrete-Mathematics-of-Neural-Networks-Selected-Topics-Martin-Anthony.pdf>)

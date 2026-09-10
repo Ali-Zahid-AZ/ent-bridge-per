@@ -1,0 +1,1 @@
+- [Huang-Solving-PDE-Point-Source-PINNs.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Physics-Informed-ML/Huang-Solving-PDE-Point-Source-PINNs.pdf>)

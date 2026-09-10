@@ -1,0 +1,1 @@
+- [Linear-Representation-Transferability-Hypothesis-Leveraging-Small-Models-to-Steer-Large-Models-2025.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/Linear-Representation-Hypothesis/Linear-Representation-Transferability-Hypothesis-Leveraging-Small-Models-to-Steer-Large-Models-2025.pdf>)

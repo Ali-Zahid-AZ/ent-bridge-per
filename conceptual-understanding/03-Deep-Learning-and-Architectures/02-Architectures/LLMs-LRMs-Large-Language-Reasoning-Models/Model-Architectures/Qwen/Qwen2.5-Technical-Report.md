@@ -1,0 +1,1 @@
+- [Qwen2.5-Technical-Report-2025.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/Large-Language-Models-LLMs/Architecture-Families/Qwen/Qwen2.5-Technical-Report-2025.pdf>)

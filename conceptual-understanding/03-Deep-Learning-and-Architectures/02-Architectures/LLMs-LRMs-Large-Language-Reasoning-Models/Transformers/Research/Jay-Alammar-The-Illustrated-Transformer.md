@@ -1,0 +1,1 @@
+- [Jay-Alammar-The-Illustrated-Transformer.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/LLMs-LRMs-Large-Language-Reasoning-Models/Transformers/Jay-Alammar-The-Illustrated-Transformer.pdf>)

@@ -1,0 +1,1 @@
+- [Artificial-Intelligence-for-Science-in-Quantum,-Atomistic,-and-Continuum-Systems-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Artificial-Intelligence-for-Science-in-Quantum,-Atomistic,-and-Continuum-Systems-Bronstein.pdf>)

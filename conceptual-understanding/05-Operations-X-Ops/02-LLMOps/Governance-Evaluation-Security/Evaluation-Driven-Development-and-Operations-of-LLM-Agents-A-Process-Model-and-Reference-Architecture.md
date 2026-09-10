@@ -1,0 +1,1 @@
+- [Evaluation-Driven-Development-and-Operations-of-LLM-Agents-A-Process-Model-and-Reference-Architecture-2025.pdf](<file:///home/az/04-Library/05-Operations-X-Ops/02-LLMOps/Governance-Evaluation-Security/Evaluation-Driven-Development-and-Operations-of-LLM-Agents-A-Process-Model-and-Reference-Architecture-2025.pdf>)

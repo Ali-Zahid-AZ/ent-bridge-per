@@ -1,0 +1,1 @@
+- [ELUTQ-Optimizing-Quantization-Accuracy-under-LUT-Based-Computation-for-Edge-LLMs-2026.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/LLMs-LRMs-Large-Language-Reasoning-Models/Inference-Optimization/ELUTQ-Optimizing-Quantization-Accuracy-under-LUT-Based-Computation-for-Edge-LLMs-2026.pdf>)

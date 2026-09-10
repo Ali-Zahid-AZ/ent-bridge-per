@@ -1,0 +1,1 @@
+- [Jurafsky-Speech-and-Language-Processing-draft-Third-Edition-bible.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/Jurafsky-Speech-and-Language-Processing-draft-Third-Edition-bible.pdf>)

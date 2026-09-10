@@ -1,0 +1,1 @@
+- [Are-Large-Language-Models-Good-Temporal-Graph-Learners-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Are-Large-Language-Models-Good-Temporal-Graph-Learners-Bronstein.pdf>)

@@ -1,0 +1,1 @@
+- [Neural-Sheaf-Diffusion-A-Topological-Perspective-on-Heterophily-and-Oversmoothing-in-GNNs-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Neural-Sheaf-Diffusion-A-Topological-Perspective-on-Heterophily-and-Oversmoothing-in-GNNs-Bronstein.pdf>)

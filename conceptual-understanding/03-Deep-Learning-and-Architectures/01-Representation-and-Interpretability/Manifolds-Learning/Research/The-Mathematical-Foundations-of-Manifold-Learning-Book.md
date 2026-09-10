@@ -1,0 +1,1 @@
+- [The-Mathematical-Foundations-of-Manifold-Learning-Book.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Geometric-Deep-Learning/Manifolds-Learning/The-Mathematical-Foundations-of-Manifold-Learning-Book.pdf>)

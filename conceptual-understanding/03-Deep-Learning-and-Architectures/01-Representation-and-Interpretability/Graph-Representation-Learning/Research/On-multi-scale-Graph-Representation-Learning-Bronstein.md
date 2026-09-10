@@ -1,0 +1,1 @@
+- [On-multi-scale-Graph-Representation-Learning-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/On-multi-scale-Graph-Representation-Learning-Bronstein.pdf>)

@@ -1,0 +1,1 @@
+- [Trevor-the-Elements-of-Statistical-Learning.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Trevor-the-Elements-of-Statistical-Learning.pdf>)

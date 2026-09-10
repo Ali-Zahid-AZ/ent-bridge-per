@@ -1,0 +1,1 @@
+- [GNNs-beyond-Weisfeiler-Lehman-and-vanilla-Message-Passing-Bronstein-Medium.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/GNNs-beyond-Weisfeiler-Lehman-and-vanilla-Message-Passing-Bronstein-Medium.pdf>)

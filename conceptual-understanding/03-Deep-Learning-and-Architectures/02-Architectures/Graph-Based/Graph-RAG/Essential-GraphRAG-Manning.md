@@ -1,0 +1,1 @@
+- [Essential-GraphRAG-Manning.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/Graph-Based/Graph-RAG/Essential-GraphRAG-Manning.pdf>)

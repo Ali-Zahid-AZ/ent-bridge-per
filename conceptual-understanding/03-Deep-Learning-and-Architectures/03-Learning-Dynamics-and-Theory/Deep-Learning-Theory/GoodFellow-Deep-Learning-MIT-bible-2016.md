@@ -1,0 +1,1 @@
+- [GoodFellow-Deep-Learning-MIT-bible-2016.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/GoodFellow-Deep-Learning-MIT-bible-2016.pdf>)

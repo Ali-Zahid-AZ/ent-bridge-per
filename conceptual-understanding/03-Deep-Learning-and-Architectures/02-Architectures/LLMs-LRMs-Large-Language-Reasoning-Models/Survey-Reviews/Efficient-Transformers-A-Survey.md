@@ -1,0 +1,1 @@
+- [Efficient-Transformers-A-Survey-2022.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/Large-Language-Models-LLMs/Inference-Optimization/Efficient-Transformers-A-Survey-2022.pdf>)

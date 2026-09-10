@@ -1,0 +1,1 @@
+- [Agentic-Harness-Engineering-Observability-Driven-Automatic-Evolution-of-Coding-Agent-Harnesses-2026.pdf](<file:///home/az/04-Library/05-Operations-X-Ops/03-AgentOps/Pipeline-Design/Agentic-Harness-Engineering-Observability-Driven-Automatic-Evolution-of-Coding-Agent-Harnesses-2026.pdf>)

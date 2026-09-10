@@ -1,0 +1,1 @@
+- [Manning-NLP-in-Action-Understanding,-analyzing-and-generating-text-with-Python.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/03-Learning-Dynamics-and-Theory/Natural-Language-Processing-NLP/Manning-NLP-in-Action-Understanding,-analyzing-and-generating-text-with-Python.pdf>)

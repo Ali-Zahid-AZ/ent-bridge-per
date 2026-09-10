@@ -1,0 +1,1 @@
+- [Gradient-Variance-Reveals-Failure-Modes-in-Flow-Based-Generative-Models-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Gradient-Variance-Reveals-Failure-Modes-in-Flow-Based-Generative-Models-Bronstein.pdf>)

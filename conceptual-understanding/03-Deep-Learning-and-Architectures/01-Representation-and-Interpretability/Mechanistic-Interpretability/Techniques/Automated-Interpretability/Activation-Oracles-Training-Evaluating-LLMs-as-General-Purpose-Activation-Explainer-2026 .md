@@ -1,0 +1,1 @@
+- [Activation-Oracles-Training-Evaluating-LLMs-as-General-Purpose-Activation-Explainer-2026 .pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/03-Architectures/LLMs/Mechanistic-Interpretability/Techniques/Automated-Interpretability/Activation-Oracles-Training-Evaluating-LLMs-as-General-Purpose-Activation-Explainer-2026 .pdf>)

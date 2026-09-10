@@ -1,0 +1,1 @@
+- [Solving-Nonlinear-Diff-Eq-with-Differentiable-QNN.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Physics-Informed-ML/Solving-Nonlinear-Diff-Eq-with-Differentiable-QNN.pdf>)

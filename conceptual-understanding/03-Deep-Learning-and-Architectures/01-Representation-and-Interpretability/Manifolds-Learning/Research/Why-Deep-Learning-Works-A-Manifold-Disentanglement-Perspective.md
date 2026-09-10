@@ -1,0 +1,1 @@
+- [Why-Deep-Learning-Works-A-Manifold-Disentanglement-Perspective-Brahma-2015.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/02-Theoretical-Foundations/Manifolds/Why-Deep-Learning-Works-A-Manifold-Disentanglement-Perspective-Brahma-2015.pdf>)

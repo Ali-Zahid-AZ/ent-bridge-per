@@ -1,0 +1,1 @@
+- [OXtal-An-All-Atom-Diffusion-Model-for-Organic-Crystal-Structure-Prediction-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/OXtal-An-All-Atom-Diffusion-Model-for-Organic-Crystal-Structure-Prediction-Bronstein.pdf>)

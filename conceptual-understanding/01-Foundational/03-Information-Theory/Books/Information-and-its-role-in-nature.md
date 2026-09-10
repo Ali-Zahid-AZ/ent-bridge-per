@@ -1,0 +1,1 @@
+- [Information-and-its-role-in-nature.pdf](<file:///home/az/04-Library/01-Foundational/03-Information-Theory/Classical-Information-Theory/Information-and-its-role-in-nature.pdf>)

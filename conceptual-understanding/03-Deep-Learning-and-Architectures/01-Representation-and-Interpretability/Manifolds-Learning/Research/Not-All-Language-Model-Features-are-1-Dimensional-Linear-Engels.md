@@ -1,0 +1,1 @@
+- [Not-All-Language-Model-Features-are-1-Dimensional-Linear-Engels-2025.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/02-Theoretical-Foundations/Manifolds/Not-All-Language-Model-Features-are-1-Dimensional-Linear-Engels-2025.pdf>)

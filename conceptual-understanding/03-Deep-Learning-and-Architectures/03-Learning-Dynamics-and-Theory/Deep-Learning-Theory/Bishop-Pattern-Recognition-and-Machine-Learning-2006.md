@@ -1,0 +1,1 @@
+- [Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf>)

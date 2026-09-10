@@ -1,0 +1,1 @@
+- [Qwen2.5-Coder-Technical-Report-2024.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/02-Architectures/Large-Language-Models-LLMs/Architecture-Families/Qwen/Qwen2.5-Coder-Technical-Report-2024.pdf>)

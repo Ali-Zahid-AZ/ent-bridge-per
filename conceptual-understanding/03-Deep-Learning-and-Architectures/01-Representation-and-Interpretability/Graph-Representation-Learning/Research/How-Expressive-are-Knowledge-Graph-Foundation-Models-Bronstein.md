@@ -1,0 +1,1 @@
+- [How-Expressive-are-Knowledge-Graph-Foundation-Models-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/How-Expressive-are-Knowledge-Graph-Foundation-Models-Bronstein.pdf>)

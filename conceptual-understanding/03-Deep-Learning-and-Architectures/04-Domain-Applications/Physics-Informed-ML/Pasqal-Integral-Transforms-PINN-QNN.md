@@ -1,0 +1,1 @@
+- [Pasqal-Integral-Transforms-PINN-QNN.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Physics-Informed-ML/Pasqal-Integral-Transforms-PINN-QNN.pdf>)

@@ -1,0 +1,1 @@
+- [Understanding-convolution-on-graphs-via-energies-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Understanding-convolution-on-graphs-via-energies-Bronstein.pdf>)

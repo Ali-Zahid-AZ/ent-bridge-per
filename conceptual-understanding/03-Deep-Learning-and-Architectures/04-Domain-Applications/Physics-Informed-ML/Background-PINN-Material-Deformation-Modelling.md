@@ -1,0 +1,1 @@
+- [Background-PINN-Material-Deformation-Modelling.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/03-Advanced-Architectures/Physics-Informed-ML/Background-PINN-Material-Deformation-Modelling.pdf>)

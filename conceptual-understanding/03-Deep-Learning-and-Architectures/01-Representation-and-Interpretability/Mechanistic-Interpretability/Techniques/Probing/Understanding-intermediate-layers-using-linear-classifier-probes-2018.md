@@ -1,0 +1,1 @@
+- [Understanding-intermediate-layers-using-linear-classifier-probes-2018.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/LLM-Mechanistic-Interpretability/Techniques/Probing/Understanding-intermediate-layers-using-linear-classifier-probes-2018.pdf>)

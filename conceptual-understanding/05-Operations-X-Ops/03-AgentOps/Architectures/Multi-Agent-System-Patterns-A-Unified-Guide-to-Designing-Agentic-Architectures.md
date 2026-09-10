@@ -1,0 +1,1 @@
+- [Medium-Multi-Agent-System-Patterns-A-Unified-Guide-to-Designing-Agentic-Architectures-2026.pdf](<file:///home/az/04-Library/05-Operations-X-Ops/03-AgentOps/Architectures/Medium-Multi-Agent-System-Patterns-A-Unified-Guide-to-Designing-Agentic-Architectures-2026.pdf>)

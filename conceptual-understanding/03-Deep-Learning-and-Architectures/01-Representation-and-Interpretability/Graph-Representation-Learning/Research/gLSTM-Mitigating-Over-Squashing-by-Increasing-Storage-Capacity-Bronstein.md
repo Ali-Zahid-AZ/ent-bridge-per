@@ -1,0 +1,1 @@
+- [gLSTM-Mitigating-Over-Squashing-by-Increasing-Storage-Capacity-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/gLSTM-Mitigating-Over-Squashing-by-Increasing-Storage-Capacity-Bronstein.pdf>)

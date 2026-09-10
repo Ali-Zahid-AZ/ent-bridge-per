@@ -1,0 +1,1 @@
+- [Head-Pursuit-Probing-Attention-Specialization-in-Multimodal-Transformers-2026.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/LLM-Mechanistic-Interpretability/Circuits/Head-Pursuit-Probing-Attention-Specialization-in-Multimodal-Transformers-2026.pdf>)

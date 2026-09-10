@@ -1,0 +1,1 @@
+- [The-Modern-Mathematics-of-Deep-Learning.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/The-Modern-Mathematics-of-Deep-Learning.pdf>)

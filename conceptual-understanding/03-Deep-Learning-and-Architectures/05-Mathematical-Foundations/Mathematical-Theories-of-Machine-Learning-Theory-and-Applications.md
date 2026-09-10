@@ -1,0 +1,1 @@
+- [Mathematical-Theories-of-Machine-Learning-Theory-and-Applications.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Mathematical-Theories-of-Machine-Learning-Theory-and-Applications.pdf>)

@@ -1,0 +1,1 @@
+- [Circuit-Restricted-Weight-Arithmetic-for-Selective-Refusal-2026.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/LLM-Mechanistic-Interpretability/Techniques/Representation-Engineering/Circuit-Restricted-Weight-Arithmetic-for-Selective-Refusal-2026.pdf>)

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"500fe6ae886d6385","type":"text","text":"**MLOps**","x":-1040,"y":-320,"width":100,"height":60,"color":"1"},
+		{"id":"bbfe487e1481c4ed","type":"text","text":"Programming Framework","x":-880,"y":-735,"width":240,"height":60},
+		{"id":"23536cf8da198421","type":"text","text":"PyTorch","x":-600,"y":-730,"width":120,"height":50,"color":"6"},
+		{"id":"b5a6e84f1da9db12","type":"text","text":"DevOps Principles","x":-880,"y":-640,"width":190,"height":60},
+		{"id":"9ad6a70ea9f4ab60","type":"text","text":"IBM Professional Certificate: Applied DevOps","x":-640,"y":-640,"width":370,"height":60,"color":"3"},
+		{"id":"dc9609c69f3f9653","type":"text","text":"IBM Professional Certificate: PyTorch for Deep Learning","x":-420,"y":-730,"width":460,"height":50,"color":"4"},
+		{"id":"d098e331ab250acf","type":"text","text":"Data Versioning ","x":-885,"y":-520,"width":165,"height":50},
+		{"id":"77bef76fab499b76","type":"text","text":"[[DVC - Data Version Control]]","x":-670,"y":-525,"width":250,"height":60,"color":"5"},
+		{"id":"24d62496bf9f981e","type":"text","text":"Model Tracking","x":-885,"y":-442,"width":170,"height":60},
+		{"id":"e7e060679042170f","type":"text","text":"has been implemented in its basic form","x":-360,"y":-525,"width":250,"height":60,"color":"1"},
+		{"id":"4d5b1291d1f7e7ef","type":"text","text":"has been implemented in its basic form","x":-360,"y":-442,"width":250,"height":60,"color":"1"},
+		{"id":"4a22e603a52b29c5","type":"text","text":"[[MLFLow - Model Tracking]]","x":-670,"y":-440,"width":230,"height":55,"color":"5"},
+		{"id":"7678023fc1f4c01d","type":"text","text":"TensorFlow","x":-600,"y":-820,"width":132,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"4b5fa72ab11b21da","fromNode":"500fe6ae886d6385","fromSide":"top","toNode":"bbfe487e1481c4ed","toSide":"left"},
+		{"id":"62f3a1bf407dc2e9","fromNode":"bbfe487e1481c4ed","fromSide":"right","toNode":"23536cf8da198421","toSide":"left"},
+		{"id":"b61e05c981ebc581","fromNode":"23536cf8da198421","fromSide":"right","toNode":"dc9609c69f3f9653","toSide":"left"},
+		{"id":"f62792bf00ce5f9f","fromNode":"500fe6ae886d6385","fromSide":"top","toNode":"b5a6e84f1da9db12","toSide":"left"},
+		{"id":"a6383395ffd485ff","fromNode":"b5a6e84f1da9db12","fromSide":"right","toNode":"9ad6a70ea9f4ab60","toSide":"left"},
+		{"id":"b80e95cbfbdb011d","fromNode":"500fe6ae886d6385","fromSide":"top","toNode":"d098e331ab250acf","toSide":"left"},
+		{"id":"149651e5c24fed93","fromNode":"500fe6ae886d6385","fromSide":"top","toNode":"24d62496bf9f981e","toSide":"left"},
+		{"id":"1eb9ff5dc15e3388","fromNode":"d098e331ab250acf","fromSide":"right","toNode":"77bef76fab499b76","toSide":"left"},
+		{"id":"c33ba0e13ded699a","fromNode":"24d62496bf9f981e","fromSide":"right","toNode":"4a22e603a52b29c5","toSide":"left"},
+		{"id":"a74f2331dec2b67b","fromNode":"77bef76fab499b76","fromSide":"right","toNode":"e7e060679042170f","toSide":"left"},
+		{"id":"10c7ebbfeae7edf4","fromNode":"4a22e603a52b29c5","fromSide":"right","toNode":"4d5b1291d1f7e7ef","toSide":"left"},
+		{"id":"06151fd6fb55d6eb","fromNode":"bbfe487e1481c4ed","fromSide":"right","toNode":"7678023fc1f4c01d","toSide":"left"}
+	]
+}

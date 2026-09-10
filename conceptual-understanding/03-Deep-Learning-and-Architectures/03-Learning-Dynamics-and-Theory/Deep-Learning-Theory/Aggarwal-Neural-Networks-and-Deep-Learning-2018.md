@@ -1,0 +1,1 @@
+- [Aggarwal-Neural-Networks-and-Deep-Learning-2018.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/Aggarwal-Neural-Networks-and-Deep-Learning-2018.pdf>)

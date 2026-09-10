@@ -1,0 +1,1 @@
+- [TGM-a-Modular-and-Efficient-Library-for-Machine-Learning-on-Temporal-Graphs-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/TGM-a-Modular-and-Efficient-Library-for-Machine-Learning-on-Temporal-Graphs-Bronstein.pdf>)

@@ -1,0 +1,1 @@
+- [Geometrical-Methods-of-Mathematical-Physics.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Geometrical-Methods-of-Mathematical-Physics.pdf>)

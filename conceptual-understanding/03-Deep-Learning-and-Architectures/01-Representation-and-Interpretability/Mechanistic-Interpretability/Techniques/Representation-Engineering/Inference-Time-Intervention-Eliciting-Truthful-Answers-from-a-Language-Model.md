@@ -1,0 +1,1 @@
+- [Inference-Time-Intervention-Eliciting-Truthful-Answers-from-a-Language-Model.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/LLM-Mechanistic-Interpretability/Techniques/Representation-Engineering/Inference-Time-Intervention-Eliciting-Truthful-Answers-from-a-Language-Model.pdf>)

@@ -1,0 +1,1 @@
+- [Steering-Language-Models-for-Theorem-Proving-2025.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/01-Representation-and-Interpretability/LLM-Mechanistic-Interpretability/Techniques/Representation-Engineering/Steering-Language-Models-for-Theorem-Proving-2025.pdf>)

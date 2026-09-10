@@ -1,0 +1,1 @@
+- [Marc-Peter-Mathematics-for-Machine-Learning.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Marc-Peter-Mathematics-for-Machine-Learning.pdf>)

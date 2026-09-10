@@ -1,0 +1,1 @@
+- [Manifold-learning-what-how-and-why-2023.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/02-Theoretical-Foundations/Manifolds/Manifold-learning-what-how-and-why-2023.pdf>)

@@ -1,0 +1,1 @@
+- [Equivariance-Everywhere-All-At-Once-A-Recipe-for-Graph-Foundation-Models-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Equivariance-Everywhere-All-At-Once-A-Recipe-for-Graph-Foundation-Models-Bronstein.pdf>)

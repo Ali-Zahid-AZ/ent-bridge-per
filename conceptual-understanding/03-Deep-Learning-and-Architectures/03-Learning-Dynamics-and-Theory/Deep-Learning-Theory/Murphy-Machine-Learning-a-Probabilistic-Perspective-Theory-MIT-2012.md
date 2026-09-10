@@ -1,0 +1,1 @@
+- [Murphy-Machine-Learning-a-Probabilistic-Perspective-Theory-MIT-2012.pdf](<file:///home/az/04-Library/03-Deep-Learning-Core/01-Canonical-Bibles/Murphy-Machine-Learning-a-Probabilistic-Perspective-Theory-MIT-2012.pdf>)

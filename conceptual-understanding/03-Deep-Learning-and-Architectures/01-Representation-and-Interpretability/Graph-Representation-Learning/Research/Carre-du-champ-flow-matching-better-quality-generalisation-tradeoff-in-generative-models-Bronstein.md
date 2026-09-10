@@ -1,0 +1,1 @@
+- [Carre-du-champ-flow-matching-better-quality-generalisation-tradeoff-in-generative-models-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Carre-du-champ-flow-matching-better-quality-generalisation-tradeoff-in-generative-models-Bronstein.pdf>)

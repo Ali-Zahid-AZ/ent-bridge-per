@@ -1,0 +1,1 @@
+- [From-Skills-to-Talent-Organising-Heterogeneous-Agents-as-a-Real-World-Company-2026.pdf](<file:///home/az/04-Library/05-Operations-X-Ops/03-AgentOps/Pipeline-Design/From-Skills-to-Talent-Organising-Heterogeneous-Agents-as-a-Real-World-Company-2026.pdf>)

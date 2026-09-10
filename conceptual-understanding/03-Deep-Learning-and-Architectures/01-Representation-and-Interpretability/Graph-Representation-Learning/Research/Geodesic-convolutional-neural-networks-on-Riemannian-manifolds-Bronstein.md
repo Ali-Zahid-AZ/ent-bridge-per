@@ -1,0 +1,1 @@
+- [Geodesic-convolutional-neural-networks-on-Riemannian-manifolds-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Geodesic-convolutional-neural-networks-on-Riemannian-manifolds-Bronstein.pdf>)

@@ -1,0 +1,1 @@
+- [Networks-An-Introduction-Newman.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Networks-An-Introduction-Newman.pdf>)

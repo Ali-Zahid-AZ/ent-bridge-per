@@ -1,0 +1,1 @@
+- [Agentic-AI-A-Comprehensive-Survey-of-Architectures-Applications-and-Future-Directions-2025.pdf](<file:///home/az/04-Library/05-Operations-X-Ops/03-AgentOps/Architectures/Agentic-AI-A-Comprehensive-Survey-of-Architectures-Applications-and-Future-Directions-2025.pdf>)

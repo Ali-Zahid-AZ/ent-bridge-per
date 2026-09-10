@@ -1,0 +1,1 @@
+- [Bridging-Graph-Neural-Networks-and-Large-Language-Models--A-Survey-and-Unified-Perspective-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/Bridging-Graph-Neural-Networks-and-Large-Language-Models--A-Survey-and-Unified-Perspective-Bronstein.pdf>)

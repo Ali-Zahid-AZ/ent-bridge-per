@@ -1,0 +1,1 @@
+- [Stein-Discrete-Mathematics-for-Computer-Scientists-Textbook-.pdf](<file:///home/az/04-Library/03-Deep-Learning-and-Architectures/03-Learning-Dynamics-and-Theory/Mathematical-Foundations/Stein-Discrete-Mathematics-for-Computer-Scientists-Textbook-.pdf>)

@@ -1,0 +1,1 @@
+- [GraphBench-Next-generation-graph-learning-benchmarking-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/GraphBench-Next-generation-graph-learning-benchmarking-Bronstein.pdf>)

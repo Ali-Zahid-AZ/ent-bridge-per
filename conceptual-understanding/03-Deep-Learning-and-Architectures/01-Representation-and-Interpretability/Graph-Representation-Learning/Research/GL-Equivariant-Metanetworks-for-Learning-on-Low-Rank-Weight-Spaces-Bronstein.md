@@ -1,0 +1,1 @@
+- [GL-Equivariant-Metanetworks-for-Learning-on-Low-Rank-Weight-Spaces-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/GL-Equivariant-Metanetworks-for-Learning-on-Low-Rank-Weight-Spaces-Bronstein.pdf>)

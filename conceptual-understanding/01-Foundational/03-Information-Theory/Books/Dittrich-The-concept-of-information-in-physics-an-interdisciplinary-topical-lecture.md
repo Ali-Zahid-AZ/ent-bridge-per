@@ -1,0 +1,1 @@
+- [Dittrich-The-concept-of-information-in-physics-an-interdisciplinary-topical-lecture.pdf](<file:///home/az/04-Library/01-Foundational/03-Information-Theory/Classical-Information-Theory/Dittrich-The-concept-of-information-in-physics-an-interdisciplinary-topical-lecture.pdf>)

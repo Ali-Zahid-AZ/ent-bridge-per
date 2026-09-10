@@ -1,0 +1,1 @@
+- [DeepLearning-on-Graphs-Successes-Challenges-Next-Steps-Bronstein-Medium.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/DeepLearning-on-Graphs-Successes-Challenges-Next-Steps-Bronstein-Medium.pdf>)

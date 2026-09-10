@@ -1,0 +1,1 @@
+- [CayleyNets-Graph-Convolutional-Neural-Networks-with-Complex-Rational-Spectral-Filters-Bronstein.pdf](<file:///home/az/04-Library/04-Advanced-Paradigms/01-Canonical-Bibles/Bronstein/CayleyNets-Graph-Convolutional-Neural-Networks-with-Complex-Rational-Spectral-Filters-Bronstein.pdf>)
